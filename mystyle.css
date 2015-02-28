@@ -1,6 +1,6 @@
 body 
 {
-	background:#4747D1;
+	background:#8DAAFF;
 }
 .top 
 {
@@ -16,7 +16,7 @@ body
     position:fixed;
     left:-8px; top:-8px; bottom: 0;
     width: 120px;
-	background:#4747D1;
+	background:#8DAAFF;
 	float: left;
 }
 .main 
@@ -24,7 +24,7 @@ body
     position: absolute;
     left:150px; top:115px; right:30px; bottom:10px;
 	height:100%;
-	background:#4747D1;
+	background:#8DAAFF;
 }
 p    
 {
