@@ -5,7 +5,7 @@ body
 .top 
 {
     position:absolute;
-    left:100px; right:0;
+    left:120px; right:0;
     height: 110px; top:-5px;
 	border-style: solid;
     border-width: 5px;
@@ -15,14 +15,14 @@ body
 {
     position:fixed;
     left:-8px; top:-8px; bottom: 0;
-    width: 100px;
+    width: 120px;
 	background:#4747D1;
 	float: left;
 }
 .main 
 {
     position: absolute;
-    left:130px; top:115px; right:30px; bottom:10px;
+    left:150px; top:115px; right:30px; bottom:10px;
 	height:100%;
 	background:#4747D1;
 }
